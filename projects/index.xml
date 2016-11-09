@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects-rsses on Arnaud Bos</title>
-    <link>https://arnaudbos.github.io/arnaudbos.com/projects/index.xml</link>
+    <link>https://arnaudbos.github.io/projects/index.xml</link>
     <description>Recent content in Projects-rsses on Arnaud Bos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="https://arnaudbos.github.io/arnaudbos.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arnaudbos.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects toto</title>
-      <link>https://arnaudbos.github.io/arnaudbos.com/projects/</link>
+      <link>https://arnaudbos.github.io/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://arnaudbos.github.io/arnaudbos.com/projects/</guid>
+      <guid>https://arnaudbos.github.io/projects/</guid>
       <description>&lt;h5&gt;
   &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Project 1&lt;/a&gt;&lt;/strong&gt;
   - Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel,
