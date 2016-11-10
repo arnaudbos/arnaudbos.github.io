@@ -10,13 +10,11 @@ draft: false
 
 -----
 
-This ear (2016), I've been given the opportunity to attend the French edition of the EclipseCon. It's been the first time I could attend an event of this nature with Keynotes, workshops, talks and demos on various topics, informal talks with other attendees and speakers.
+This ear, I've been given the opportunity to attend the French edition of the EclipseCon. It's been the first time I could attend an event of this nature with Keynotes, workshops, talks and demos on various topics, informal talks with other attendees and speakers.
 
 Bellow is a feedback on **my** experience of the EclipseCon France 2016.
 
-```
-TODO: Insert planning and talks I've attended.
-```
+Schedule: https://www.eclipsecon.org/france2016/conference/schedule/session/2016-06-07
 
 -----
 
