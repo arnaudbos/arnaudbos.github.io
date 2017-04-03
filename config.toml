@@ -17,6 +17,7 @@ theme = "hugo-sustain"
   blog = "http://i-rant.arnaudbos.com"
   projects = "http://side-effects.arnaudbos.com"
   resume = "http://vitae.arnaudbos.com"
+  level-up = "http://level-up.arnaudbos.com"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -45,3 +46,8 @@ theme = "hugo-sustain"
   identifier = "resume"
   weight = 300
   url = "http://vitae.arnaudbos.com/"
+[[menu.main]]
+  name = "level-up"
+  identifier = "level-up"
+  weight = 400
+  url = "http://level-up.arnaudbos.com/"
