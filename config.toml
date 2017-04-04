@@ -1,4 +1,4 @@
-baseurl = "http://www.arnaudbos.com/"
+baseurl = "http://www.arnaudbos.com"
 languageCode = "en-US"
 title = "Arnaud Bos"
 # Enable comments by entering your Disqus shortname
@@ -17,7 +17,7 @@ theme = "hugo-sustain"
   blog = "http://i-rant.arnaudbos.com"
   projects = "http://side-effects.arnaudbos.com"
   resume = "http://vitae.arnaudbos.com"
-  level-up = "http://level-up.arnaudbos.com"
+  level_up = "http://level-up.arnaudbos.com"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
