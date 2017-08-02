@@ -197,6 +197,9 @@ body {
   color: #00c0aa;
   text-decoration: underline;
 }
+figcaption h6 {
+  margin-top: 5px !important;
+}
 .related-posts h6 {
   text-align: center;
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
