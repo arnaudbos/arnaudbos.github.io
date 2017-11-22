@@ -18,6 +18,7 @@ theme = "hugo-sustain"
   projects = "http://side-effects.arnaudbos.com"
   resume = "http://vitae.arnaudbos.com"
   level_up = "http://level-up.arnaudbos.com"
+  talks = "http://talks.arnaudbos.com"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
