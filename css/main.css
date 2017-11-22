@@ -407,6 +407,9 @@ figcaption h6 {
     margin-left: 0px !important;
   }
 }
+.klipse-container {
+  margin-bottom: 20px;
+}
 
 /* Footer
 -------------------------------------------------- */
