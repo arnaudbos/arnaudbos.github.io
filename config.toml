@@ -1,4 +1,4 @@
-baseurl = "http://www.arnaudbos.com/"
+baseurl = "https://www.arnaudbos.com/"
 languageCode = "en-US"
 title = "Arnaud Bos"
 # Enable comments by entering your Disqus shortname
@@ -14,11 +14,11 @@ theme = "hugo-sustain"
   avatar = "profile.png"
   author = "Arnaud Bos"
   description = "My corner of teh interweb."
-  blog = "http://i-rant.arnaudbos.com"
-  projects = "http://side-effects.arnaudbos.com"
-  resume = "http://vitae.arnaudbos.com"
-  level_up = "http://level-up.arnaudbos.com"
-  talks = "http://talks.arnaudbos.com"
+  blog = "https://i-rant.arnaudbos.com"
+  projects = "https://side-effects.arnaudbos.com"
+  resume = "https://vitae.arnaudbos.com"
+  level_up = "https://level-up.arnaudbos.com"
+  talks = "https://talks.arnaudbos.com"
   # Social
   Github        = "arnaudbos"
   Email         = "mail@arnaudbos.com"
@@ -35,24 +35,24 @@ theme = "hugo-sustain"
   name = "blog"
   weight = 100
   identifier = "blog"
-  url = "http://i-rant.arnaudbos.com/"
+  url = "https://i-rant.arnaudbos.com/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
   weight = 200
-  url = "http://side-effects.arnaudbos.com/"
+  url = "https://side-effects.arnaudbos.com/"
 [[menu.main]]
   name = "talks"
   identifier = "talks"
   weight = 300
-  url = "http://talks.arnaudbos.com/"
+  url = "https://talks.arnaudbos.com/"
 [[menu.main]]
   name = "level-up"
   identifier = "level-up"
   weight = 400
-  url = "http://level-up.arnaudbos.com/"
+  url = "https://level-up.arnaudbos.com/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
   weight = 500
-  url = "http://vitae.arnaudbos.com/"
+  url = "https://vitae.arnaudbos.com/"
